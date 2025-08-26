@@ -28,3 +28,5 @@ function cdvt   { cd C:\Users\AlexanderOlsson\repos\vulkan-triangle }
 # Tools
 function note   { start notepad++ }
 function codelr { code C:\Users\AlexanderOlsson\repos\learn-rust }
+
+# code $PROFILE
